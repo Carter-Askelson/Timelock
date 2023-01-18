@@ -110,7 +110,6 @@
          style={styles.form}
        />
        <TextInput
-         secureTextEntry={true}
          placeholder="Duration"
          onChangeText={(text) => this.typePeriod = text}
          style={styles.form}
