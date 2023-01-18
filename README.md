@@ -14,3 +14,10 @@ IDE: Microsoft Visual Studio Code.
 # Useful Websites
 * [React Native Set-up](https://reactnative.dev/docs/environment-setup)
 * [React Native Time Picker](https://github.com/henninghall/react-native-date-picker)
+
+
+# Future Work
+
+* Get App to work on Android
+* Get App to work with Expo
+* Fix Bug that sometimes occurs when selecting the default time given
